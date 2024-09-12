@@ -1,0 +1,31 @@
+image_name,Location,Zoning_data,Building_density,Traffic_flow,Environmental_constraints,SocioEconomic_constraints
+Koramangala_layout.png,Koramangala,"{'residential': 39, 'commercial': 30, 'retail': 4, 'recreation_ground': 2, 'cemetery': 1, 'construction': 1, 'education': 1}",0.290473145,36791.194,1.020140987,medium
+Indiranagar_layout.png,Indiranagar,"{'residential': 123, 'commercial': 28, 'retail': 22, 'construction': 6, 'industrial': 2, 'recreation_ground': 2, 'cemetery': 1}",0.330350797,45040.847,1.278117647,medium
+MG Road_layout.png,MG Road,"{'commercial': 66, 'residential': 52, 'retail': 19, 'construction': 12, 'military': 9, 'grass': 8, 'religious': 4, 'recreation_ground': 1, 'plant_nursery': 1}",0.223641142,13799.774,1.952475248,high
+Jayanagar_layout.png,Jayanagar,"{'residential': 7, 'recreation_ground': 2, 'education': 2, 'industrial': 1, 'construction': 1, 'commercial': 1}",0.283114299,50075.055,1.010584085,medium
+Whitefield_layout.png,Whitefield,"{'residential': 16, 'construction': 5, 'religious': 3, 'commercial': 3, 'orchard': 2, 'cemetery': 1, 'retail': 1, 'farmland': 1}",0.202605789,26225.587,1.043506494,low
+HSR Layout_layout.png,HSR Layout,"{'residential': 19, 'commercial': 10, 'industrial': 1, 'retail': 1, 'recreation_ground': 1, 'construction': 1, 'religious': 1}",0.261769282,38684.192,1.031012288,medium
+BTM Layout_layout.png,BTM Layout,"{'residential': 5, 'construction': 1, 'retail': 1, 'recreation_ground': 1, 'industrial': 1}",0.351523742,56628.939,1.234061393,high
+Electronic City_layout.png,Electronic City,"{'commercial': 6, 'construction': 3, 'residential': 2, 'industrial': 1}",0.121112655,12566.462,1.464,low
+Marathahalli_layout.png,Marathahalli,"{'residential': 8, 'retail': 7, 'commercial': 4, 'construction': 3, 'military': 2, 'religious': 2, 'industrial': 1}",0.237473227,32629.474,1.030776993,medium
+Rajajinagar_layout.png,Rajajinagar,"{'commercial': 21, 'residential': 14, 'construction': 11, 'retail': 3, 'industrial': 1, 'recreation_ground': 1}",0.361050468,49799.315,1.023211568,high
+Malleswaram_layout.png,Malleswaram,"{'residential': 27, 'commercial': 6, 'religious': 2, 'recreation_ground': 1, 'industrial': 1, 'construction': 1, 'retail': 1}",0.328581756,38523.277,1.015634047,high
+Banashankari_layout.png,Banashankari,{'residential': 5},0.381139111,57031.174,1.000605327,high
+Basavanagudi_layout.png,Basavanagudi,"{'residential': 4, 'garages': 1, 'construction': 1, 'religious': 1}",0.285368416,37850.34,1.172281776,high
+JP Nagar_layout.png,JP Nagar,"{'residential': 5, 'commercial': 3, 'construction': 2, 'forest': 1, 'religious': 1, 'recreation_ground': 1}",0.327733162,52233.834,1.03030303,medium
+Vijayanagar_layout.png,Vijayanagar,"{'residential': 1, 'recreation_ground': 1}",0.326406886,63218.696,1.00036483,low
+Ulsoor_layout.png,Ulsoor,"{'residential': 10, 'forest': 6, 'military': 5, 'commercial': 1, 'industrial': 1, 'recreation_ground': 1}",0.094383574,17872.665,1,high
+Yeshwanthpur_layout.png,Yeshwanthpur,"{'industrial': 8, 'commercial': 8, 'residential': 6, 'construction': 4, 'military': 3, 'grass': 2, 'recreation_ground': 1}",0.150069795,21888.645,1.694968553,high
+Hebbal_layout.png,Hebbal,"{'residential': 6, 'farmland': 1}",0.27271505,53836.986,1.005797101,medium
+Frazer Town_layout.png,Frazer Town,"{'commercial': 30, 'residential': 22, 'recreation_ground': 5, 'military': 3, 'religious': 3, 'construction': 3, 'railway': 2, 'education': 2, 'grass': 1}",0.269211136,34352.506,1.055826936,medium
+Shivaji Nagar_layout.png,Shivaji Nagar,"{'construction': 6, 'commercial': 5, 'religious': 1, 'railway': 1, 'retail': 1, 'residential': 1, 'recreation_ground': 1}",0.292082356,53998.944,1.004021033,high
+Domlur_layout.png,Domlur,"{'commercial': 22, 'residential': 15, 'military': 3, 'grass': 2, 'industrial': 1, 'retail': 1, 'cemetery': 1, 'construction': 1, 'village_green': 1}",0.209758839,27894.472,1.144076841,high
+Sarjapur Road_layout.png,Sarjapur Road,"{'residential': 15, 'construction': 2, 'commercial': 1, 'military': 1}",0.073015842,3160.14,1.431818182,medium
+Bellandur_layout.png,Bellandur,"{'industrial': 1, 'cemetery': 1}",0.137200469,325.762,1,low
+Nagawara_layout.png,Nagawara,"{'commercial': 19, 'construction': 8, 'residential': 4, 'cemetery': 3, 'industrial': 2, 'railway': 1}",0.179166235,35621.978,1.123989218,low
+Kalyan Nagar_layout.png,Kalyan Nagar,"{'residential': 8, 'commercial': 2, 'retail': 1, 'industrial': 1, 'construction': 1, 'religious': 1}",0.222449048,41719.908,1.012273902,low
+Mahadevapura_layout.png,Mahadevapura,"{'residential': 7, 'commercial': 6, 'grass': 5, 'industrial': 1, 'garages': 1, 'cemetery': 1, 'construction': 1}",0.142229508,9510.702,1.453089245,high
+RT Nagar_layout.png,RT Nagar,"{'commercial': 3, 'residential': 2, 'recreation_ground': 2, 'cemetery': 1, 'industrial': 1}",0.318572668,60702.186,1.001204819,medium
+Koramangala 6th Block_layout.png,Koramangala 6th Block,"{'residential': 20, 'commercial': 19, 'construction': 1, 'recreation_ground': 1, 'grass': 1, 'education': 1}",0.255002447,20183.597,1.01525941,low
+Kammanahalli_layout.png,Kammanahalli,"{'residential': 11, 'cemetery': 1, 'commercial': 1, 'construction': 1, 'religious': 1}",0.258633196,43583.542,1.015177066,medium
+Hennur_layout.png,Hennur,"{'residential': 3, 'construction': 2, 'commercial': 1, 'retail': 1, 'cemetery': 1}",0.1766197,40237.089,1.006760563,high
